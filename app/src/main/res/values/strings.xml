@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Coffee</string>
+    <string name="name">Name</string>
+    <string name="quantity">"QUANTITY: "</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="whipped_cream">"Whipped cream R50"</string>
+    <string name="chocolate">"Chocolate R50"</string>
+    <string name="initial_price">Price: R0.00</string>
+    <string name="order">Order</string>
+    <string name="email_summary">Email Order Summary</string>
+    <string name="email_subject">"Just Java Order for "</string>
+    <string name="done">Done!</string>
+    <string name="price">Price</string>
+    <string name="fifty_cups">"You can't have more than 50 coffees"</string>
+    <string name="negative_cups">"You can't have negative coffees!"</string>
+    <string name="name_required">Name field required</string>
+    <string name="with_whipped_cream">With whipped cream</string>
+    <string name="with_chocolate">With chocolate</string>
+    <string name="total">Total</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="make_selection">You have to make a selection first</string>
+</resources>
+
